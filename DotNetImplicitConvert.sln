@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetImplicitConvert.Api", "src/DotNetImplicitConvert.Api\DotNetImplicitConvert.Api.csproj", "{44FC35DB-901D-4340-87C3-1CDAFCBC6B1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetImplicitConvert.Domain", "src/DotNetImplicitConvert.Domain\DotNetImplicitConvert.Domain.csproj", "{8147647E-C75D-491E-8463-4FE802CB3A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetImplicitConvert.Infrastructure", "src/DotNetImplicitConvert.Infrastructure\DotNetImplicitConvert.Infrastructure.csproj", "{BABCBA84-BAA4-491F-B3B9-E59C4DC53D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44FC35DB-901D-4340-87C3-1CDAFCBC6B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FC35DB-901D-4340-87C3-1CDAFCBC6B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FC35DB-901D-4340-87C3-1CDAFCBC6B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FC35DB-901D-4340-87C3-1CDAFCBC6B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8147647E-C75D-491E-8463-4FE802CB3A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8147647E-C75D-491E-8463-4FE802CB3A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8147647E-C75D-491E-8463-4FE802CB3A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8147647E-C75D-491E-8463-4FE802CB3A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABCBA84-BAA4-491F-B3B9-E59C4DC53D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABCBA84-BAA4-491F-B3B9-E59C4DC53D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABCBA84-BAA4-491F-B3B9-E59C4DC53D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABCBA84-BAA4-491F-B3B9-E59C4DC53D19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
